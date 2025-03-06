@@ -69,3 +69,14 @@ tr {
     text-align: center;
     margin: auto;
 }
+
+h2{
+    font-family: Street;
+    font-size: 28px;
+    text-align: center;
+    color: crimson; 
+}
+
+.Legend {
+    font-family: Street;
+}
